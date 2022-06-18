@@ -1,0 +1,12 @@
+.sort--active {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.sort--active:hover {
+  opacity: 0.5;
+}
+
+.table_message {
+  margin-top: 35px;
+}
